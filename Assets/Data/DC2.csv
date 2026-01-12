@@ -1,0 +1,9 @@
+Target,Secondary,Audio
+Glass,Glass,Glass-Metal3
+Plastic,Glass,Plastic-Metal3
+Wood,Glass,Wood-Metal1
+Metal,Glass,Metal-Metal3
+Glass,Glass,Glass-Metal1
+Plastic,Glass,Plastic-Metal1
+Wood,Glass,Wood-Metal1
+Metal,Glass,Metal-Metal1

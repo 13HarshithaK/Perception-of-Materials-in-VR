@@ -9,8 +9,6 @@ https://drive.google.com/drive/folders/1Jvo88thZyc8rO8AUMic8yiM3_xA5TxoB?usp=dri
 
 https://yuoffice.sharepoint.com/:f:/r/sites/LE-SharedMixedRealities/Shared%20Documents/General/SOM1_Perception_of_materials_in_VR%20additional%20items?csf=1&web=1&e=zv6vIw
 
-A more permanent location will be deicided and this link will be updated accordingly.
-
 The published abstract of this study can be found here: doi:https://doi.org/10.1167/jov.24.10.1208
 
 The thesis (covering experiment 1) can be found here: https://ocul-yor.primo.exlibrisgroup.com/permalink/01OCUL_YOR/1jocqcq/alma991037283476005164

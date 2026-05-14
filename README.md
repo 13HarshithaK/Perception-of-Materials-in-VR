@@ -3,7 +3,11 @@ Masters thesis experiment and follow-up experiment
 
 This project has also been uploaded at the CVR github:[ https://github.com/Centre-for-Vision-Research](https://github.com/Centre-for-Vision-Research/SOM-Perception-of-Materials-in-VR)
 
-The materials folder had a sub-folder removed that contained the primary visual stimuli/visual textures. The files were larger than 100 MB and have been moved temporarily to this drive: https://drive.google.com/drive/folders/1Jvo88thZyc8rO8AUMic8yiM3_xA5TxoB?usp=drive_link
+The materials folder had a sub-folder removed that contained the primary visual stimuli/visual textures. The files were larger than 100 MB and have been moved temporarily to this drive: 
+
+https://drive.google.com/drive/folders/1Jvo88thZyc8rO8AUMic8yiM3_xA5TxoB?usp=drive_link
+
+https://yuoffice.sharepoint.com/:f:/r/sites/LE-SharedMixedRealities/Shared%20Documents/General/SOM1_Perception_of_materials_in_VR%20additional%20items?csf=1&web=1&e=zv6vIw
 
 A more permanent location will be deicided and this link will be updated accordingly.
 

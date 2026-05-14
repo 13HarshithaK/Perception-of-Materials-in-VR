@@ -17,4 +17,7 @@ The entire study (experiment 1 and 2) is in the process of being published, the 
 
 No human-subject or personally identifiable data is included. The anonymized user data collected will be uploaded to the university dataverse, the link will be added here once that is completed.
 
-During development, I explored multiple approaches to rendering glass and ultimately designed a custom shader tailored to the needs of this project. The intermediate experiments and the final shader implementation used in the study will be made available in a separate repository soon. This project has both the final glass shader and a few alternatives.
+During development, I explored multiple approaches to rendering glass and ultimately designed a custom shader tailored to the needs of this project. This project has both the final glass shader and a few alternatives.
+
+The intermediate experiments and the final shader implementation used in the study can be found here:  
+https://github.com/13HarshithaK/GlassShader

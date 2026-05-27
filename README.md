@@ -11,7 +11,7 @@ https://yuoffice.sharepoint.com/:f:/r/sites/LE-SharedMixedRealities/Shared%20Doc
 
 The published abstract of this study can be found here: doi:https://doi.org/10.1167/jov.24.10.1208
 
-The thesis (covering experiment 1) can be found here: https://ocul-yor.primo.exlibrisgroup.com/permalink/01OCUL_YOR/1jocqcq/alma991037283476005164
+The thesis (covering experiment 1) can be found here: https://hdl.handle.net/10315/42954
 
 The entire study (experiment 1 and 2) is in the process of being published, the DOI will be shared once it is assigned.
 
